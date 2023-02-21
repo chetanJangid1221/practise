@@ -1,1 +1,2 @@
 This is practise 1 file and i edited it at staging areac
+Now i am doing second commit 
